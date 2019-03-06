@@ -1,7 +1,7 @@
 # SCpersonal
 Aplicación de desarrollo web con PHP, Mysql  y Bootstrap.
 
-<h3>Sistema de Gestión de Personal.</h3>
+<h3><font color='blue'>Sistema de Gestión de Personal.</font></h3>
 
 Es una aplicación realizada con tecnología Bootstrap. la cual se integra con PHP, Mysql, Jquery y mas...
 
@@ -13,9 +13,10 @@ Para iniciar debes de tener el la guia de desarrollo del sistemas el cual esta p
 4.- Inciar a crear los archivos segun Manual.<br>
 
 
-Creado por José Fernandez Maluquis.
-jeefernandez@gmail.com
-www.jeefperu.com
+Creado por José Fernandez Maluquis.<br>
+jeefernandez@gmail.com<br>
+www.jeefperu.com<br>
 
-La siguiente aplicación se puede utilizar y realizar las mejoras necesarias
+La siguiente aplicación se puede utilizar y realizar las mejoras necesarias<br>
 Derecho reservado.
+2018
